@@ -33,4 +33,5 @@ e.g: `StereoTBP('darumaData', 'daruma', 14)`
 
 # References
 [1] Woodham RJ, “Photometric method for determining surface orientation from multiple images,” Optical engineering, vol. 19, no. 1, pp. 191 139–191 139, 1980.
+
 [2] Wu TP, Tang KL, Tang CK, and Wong TT, “Dense photometric stereo: A markov random field approach,” Pattern Analysis and Machine Intelligence, IEEE Transactions on, vol. 28, no. 11, pp. 1830–1846, 2006.
